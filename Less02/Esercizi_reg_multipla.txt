@@ -3,3 +3,8 @@
 #https://frenzy86.s3.eu-west-2.amazonaws.com/python/data/Startup.csv
 
 #https://frenzy86.s3.eu-west-2.amazonaws.com/python/data/Company.csv
+<<<<<<< HEAD
+=======
+
+new
+>>>>>>> 585525c41282c919a77d004955c9f3e1ae757995
